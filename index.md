@@ -1,5 +1,5 @@
 
-# \/<\\\\\' - keinwort
+# /< \\\\\' - keinwort
 
 ### gists
 some mixed found or written scripts and batch files, linux, debian, windows or else  

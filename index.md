@@ -1,10 +1,6 @@
----
-layout: default
----
-
 
 # keinwort
 
-# gists
+### gists
 
 [some findings](https://gist.github.com/keinwort)

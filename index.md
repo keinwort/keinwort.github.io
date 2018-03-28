@@ -2,8 +2,8 @@
 # \/<\\\\\' - keinwort
 
 ### gists
-
-[some findings](https://gist.github.com/keinwort)
+some mixed found or written scripts and batch files, linux, debian, windows or else
+[some found dings](https://gist.github.com/keinwort)
 
 ```
 <dont> know what do with this yet </dont>

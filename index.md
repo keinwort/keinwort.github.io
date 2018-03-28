@@ -5,11 +5,12 @@
 some mixed found or written scripts and batch files, linux, debian, windows or else
 [some found dings](https://gist.github.com/keinwort)
 
+code
 ```
-<dont> know what do with this yet </dont>
+<play> around </play>
 ```
 
-code
+error code
 
     <dont> 
     know what do with this yet 
